@@ -4,6 +4,8 @@
 ## Các mục bên dưới 🧾
 1. các dự án về trí tuệ nhân tạo.
     - Các dự án về NLP.
-        - [Full thuật toán Tokenizer "Byte Pair Encoding" scratch.](https://www.github.com/temp_empty)
+        - [Full thuật toán Tokenizer "Byte Pair Encoding" scratch](https://www.github.com/temp_empty)
         - [Full mô hình LM bản chuẩn (Có sẵn sampling và hàm generate bên trong lớp mô hình)](https://www.github.com/temp_empty)
-        - [Bản biến thể kiến trúc "Self-Attention" của tôi.](https://www.github.com/temp_empty)
+        - [Bản biến thể kiến trúc "Self-Attention" của tôi ⚡](https://www.github.com/temp_empty)
+    - Các dự án về Vision.
+        - [Mô hình Unet gốc 2015 (Code thử nghiệm.)](https://www.github.com/temp_empty)
