@@ -30,7 +30,7 @@
 ### 2. Các dự án về tài chính, kiếm tiền online 📈📉
 
 - **Tool kiếm tiền**
-  - [Tool kiếm tiền qua Facebook](https://www.github.com/temp_empty)
+  - [Tool kiếm tiền qua Facebook (V1.0)]([https://www.github.com/temp_empty](https://github.com/phucoding286/golike-facebook-system-v1.0))
   - [Tool kiếm tiền qua TikTok](https://www.github.com/temp_empty)
 
 - **Tư duy & chiến lược Crypto**
