@@ -23,7 +23,7 @@
  
 - **Dataset**
   - Bộ datasets tiếng việt đa dạng mà tôi tự crawl từ internet dành cho pretrain Language Model.
-    - [Data Patch 1](https://www.github.com/temp_empty)
+    - [Data Patch 1](https://drive.google.com/file/d/1x3kXh2z32paOGJFIHQ71fuleCuzONGev/view?usp=sharing)
 
 ---
 
