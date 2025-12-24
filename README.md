@@ -34,4 +34,4 @@
   - [Tool kiếm tiền qua TikTok](https://www.github.com/temp_empty)
 
 - **Tư duy & chiến lược Crypto**
-  - [Kỹ thuật trade dài hạn – định hướng ổn định vốn](https://www.github.com/temp_empty)
+  - [Kỹ thuật trade dài hạn – định hướng ổn định vốn, lợi nhuận đều.](https://www.github.com/temp_empty)
