@@ -3,5 +3,6 @@
 1. Facebook -> "https://www.facebook.com/hoangphu020"
 ## Các mục bên dưới 🧾
 1. các dự án về trí tuệ nhân tạo.
-    a. Các dự án về NLP.
+    - Các dự án về NLP.
         - [Full thuật toán Tokenizer "Byte Pair Encoding" scratch.](https://www.github.com/temp_empty)
+        - [Full mô hình LM bản chuẩn (Có sẵn sampling và hàm generate bên trong lớp mô hình)](https://www.github.com/temp_empty)
