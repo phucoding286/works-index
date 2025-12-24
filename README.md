@@ -20,6 +20,7 @@
 
 - **Computer Vision**
   - [Mô hình U-Net gốc (2015) – code thử nghiệm](https://github.com/phucoding286/u-net-2015-test-code)
+  - [Mô hình Vision Transformer (ViT) - code thử nghiệm](https://github.com/phucoding286/vision-transformer-testcode)
  
 - **Dataset**
   - Bộ datasets tiếng việt đa dạng mà tôi tự crawl từ internet dành cho pretrain Language Model.
