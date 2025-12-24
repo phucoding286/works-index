@@ -14,4 +14,4 @@
         - [Tool kiếm tiền qua bằng Facebook.](https://www.github.com/temp_empty)
         - [Tool kiếm tiền bằng Tiktok.](https://www.github.com/temp_empty)
     - Tư duy kiếm tiền từ lĩnh vực tiền điện tử.
-        [Kỹ thuật trade lâu dài, 100% không lổ.](https://www.github.com/temp_empty)
+        - [Kỹ thuật trade lâu dài, 100% không lổ.](https://www.github.com/temp_empty)
