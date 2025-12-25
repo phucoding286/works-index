@@ -21,6 +21,7 @@
 - **Computer Vision**
   - [Mô hình U-Net gốc (2015) – code thử nghiệm](https://github.com/phucoding286/u-net-2015-test-code)
   - [Mô hình Vision Transformer (ViT) - code thử nghiệm](https://github.com/phucoding286/vision-transformer-testcode)
+  - [Khối ResNet - tự triển khai](https://github.com/phucoding286/resnet-by-phu)
  
 - **Dataset**
   - Bộ datasets tiếng việt đa dạng mà tôi tự crawl từ internet dành cho pretrain Language Model.
