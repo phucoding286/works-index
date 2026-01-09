@@ -39,5 +39,5 @@
 - **Tư duy & chiến lược Crypto**
   - [Kỹ thuật trade dài hạn – định hướng ổn định vốn, lợi nhuận đều.](https://github.com/phucoding286/chien-luoc-choi-trading)
 
-- **Các backup của các loại ví của tôi**
+- **Các backup của các loại ví Crypto của tôi**
   - [My OKX Wallet](https://github.com/phucoding286/my_okx_wallet_backup)
