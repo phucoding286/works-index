@@ -23,6 +23,7 @@
   - [Mô hình Vision Transformer (ViT) - code thử nghiệm](https://github.com/phucoding286/vision-transformer-testcode)
   - [Khối ResNet - tự triển khai](https://github.com/phucoding286/resnet-by-phu)
   - [Mô hình DDPM - tự triển khai](https://github.com/phucoding286/denoise_diffusion_probability_model_ddpm_Project)
+  - [Mô hình VAE - tự triển khai](https://github.com/phucoding286/variantional_autoencoders_VAE_Project)
  
 - **Dataset**
   - Bộ datasets tiếng việt đa dạng mà tôi tự crawl từ internet dành cho pretrain Language Model.
