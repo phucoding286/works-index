@@ -44,7 +44,8 @@
   - [Tool kiếm tiền qua TikTok](https://github.com/phucoding286/golike-tiktok-system)
 
 - **Tư duy & chiến lược Crypto**
-  - [Kỹ thuật trading](https://github.com/phucoding286/chien-luoc-choi-trading)
+  - [Kỹ thuật trading (Không khuyên dùng nữa)](https://github.com/phucoding286/chien-luoc-choi-trading)
+  - [Chiến lược trading causual dành cho người thụ động](https://github.com/phucoding286/chien-luoc-trading-sieu-nhan-roi)
 
 - **Các backup của các loại ví Crypto của tôi (Tất cả là Private)**
   - [My OKX Wallet](https://github.com/phucoding286/my_okx_wallet_backup)
