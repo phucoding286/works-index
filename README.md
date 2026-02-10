@@ -45,9 +45,7 @@
 
 - **Tư duy & chiến lược Crypto**
   - [Cách trading an toàn](https://github.com/phucoding286/chien-luoc-trading-an-toan)
- 
-- **Các Fact toán học tài chính về các công thức kiếm tiền, nếu hiểu rõ sẽ biết được con đường làm giàu không khó!**
-  - ! Tạm thời để trống !
+  - [Các fact quan trọng về tài chính](https://github.com/phucoding286/fact-quan-trong-trong-tai-chinh)
 
 - **Các backup của các loại ví Crypto của tôi (Tất cả là Private)**
   - [My OKX Wallet](https://github.com/phucoding286/my_okx_wallet_backup)
