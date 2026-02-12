@@ -43,8 +43,8 @@
   - [Tool kiếm tiền qua Facebook (V2.0) - Khuyên dùng!](https://github.com/phucoding286/golike-facebook-system-v1.0/tree/main/B%E1%BA%A3n_Golike_V%E1%BB%9Bi_API)
   - [Tool kiếm tiền qua TikTok](https://github.com/phucoding286/golike-tiktok-system)
 
-- **Tư duy & chiến lược Crypto**
-  - [Cách trading an toàn](https://github.com/phucoding286/chien-luoc-trading-an-toan)
+- **Tư duy & chiến lược Crypto/Đầu tư**
+  - [Cách trade, đầu tư an toàn](https://github.com/phucoding286/chien-luoc-trading-an-toan)
   - [Các fact quan trọng về tài chính](https://github.com/phucoding286/fact-quan-trong-trong-tai-chinh)
 
 - **Các backup của các loại ví Crypto của tôi (Tất cả là Private)**
