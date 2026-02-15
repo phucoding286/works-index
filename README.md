@@ -45,6 +45,7 @@
 
 - **Tư duy & chiến lược Crypto - Đầu tư**
   - [Cách trade - đầu tư an toàn](https://github.com/phucoding286/chien-luoc-trading-an-toan)
+  - [Chiến lược lướt sóng hiệu quả (cần đọc xong mục trước.)](https://github.com/phucoding286/chien-luoc-luot-song-toi-uu)
   - [Các fact quan trọng về tài chính](https://github.com/phucoding286/fact-quan-trong-trong-tai-chinh)
 
 - **Các backup của các loại ví Crypto của tôi (Tất cả là Private)**
