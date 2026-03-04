@@ -43,7 +43,7 @@
   - [Tool kiếm tiền qua Facebook (V2.0) - Khuyên dùng!](https://github.com/phucoding286/golike-facebook-system-v1.0/tree/main/B%E1%BA%A3n_Golike_V%E1%BB%9Bi_API)
   - [Tool kiếm tiền qua TikTok](https://github.com/phucoding286/golike-tiktok-system)
 
-- **Tư duy & chiến lược Crypto - Đầu tư**
+- **Tư duy & chiến lược giao dịch 💰**
   - [Trendline](https://github.com/phucoding286/trendlines) (Future Trade)
   - [DCA](https://github.com/phucoding286/dca) (Spot Trade)
   - [Future Trade](https://github.com/phucoding286/future-trade)
