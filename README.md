@@ -44,7 +44,8 @@
   - [Tool kiếm tiền qua TikTok](https://github.com/phucoding286/golike-tiktok-system)
 
 - **Tư duy & chiến lược Crypto - Đầu tư**
-  - [Trendline](https://github.com/phucoding286/trendlines)
+  - [Trendline](https://github.com/phucoding286/trendlines) (Future Trade)
+  - [DCA](https://github.com/phucoding286/dca) (Spot Trade)
 
 - **Các backup của các loại ví Crypto của tôi (Tất cả là Private)**
   - [My OKX Wallet](https://github.com/phucoding286/my_okx_wallet_backup)
