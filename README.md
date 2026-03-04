@@ -46,6 +46,7 @@
 - **Tư duy & chiến lược Crypto - Đầu tư**
   - [Trendline](https://github.com/phucoding286/trendlines) (Future Trade)
   - [DCA](https://github.com/phucoding286/dca) (Spot Trade)
+  - [Future Trade](https://github.com/phucoding286/future-trade)
 
 - **Các backup của các loại ví Crypto của tôi (Tất cả là Private)**
   - [My OKX Wallet](https://github.com/phucoding286/my_okx_wallet_backup)
