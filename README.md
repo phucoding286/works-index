@@ -24,7 +24,6 @@
   - [Khối ResNet - tự triển khai](https://github.com/phucoding286/resnet-by-phu)
   - [Mô hình DDPM - tự triển khai](https://github.com/phucoding286/denoise_diffusion_probability_model_ddpm_Project)
   - [Mô hình VAE - tự triển khai](https://github.com/phucoding286/variantional_autoencoders_VAE_Project)
-  - [Notebook train LDM - tự triển khai](https://colab.research.google.com/drive/1ZaDwqgKsOHqzWp1loHkIIAuuolVGSOoY?authuser=1#scrollTo=BXCaf-Jn9pMc)
  
 - **NLP Datasets**
   - Bộ datasets tiếng việt đa dạng mà tôi tự crawl từ internet dành cho pretrain Language Model.
