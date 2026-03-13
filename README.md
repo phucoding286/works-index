@@ -45,6 +45,7 @@
   - [Tool kiếm tiền qua TikTok](https://github.com/phucoding286/golike-tiktok-system)
 
 - **Tư duy & Chiến lược Giao dịch 💰**
+  - [Break Structure (Quan trọng!)](https://github.com/phucoding286/break-structure) (Future Trade)
   - [Trendline](https://github.com/phucoding286/trendlines) (Future Trade)
   - [DCA](https://github.com/phucoding286/dca) (Spot Trade)
   - [Future Trade](https://github.com/phucoding286/future-trade)
