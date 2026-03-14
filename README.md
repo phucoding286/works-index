@@ -47,5 +47,6 @@
 - **Tư duy & Chiến lược Giao dịch 💰**
   - [Reversal Zone](https://github.com/phucoding286/reversal-zone) (Future Trade)
   - [Trend Following](https://github.com/phucoding286/trend-following) (Future Trade)
+  - [Old S/R Backstep](https://github.com/phucoding286/old-SnR-backstep) (Future Trade) (Mô hình rõ ràng và xác suất cao)
   - [DCA](https://github.com/phucoding286/dca) (Spot Trade)
   - [Future Trade](https://github.com/phucoding286/future-trade)
