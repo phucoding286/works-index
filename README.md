@@ -45,12 +45,17 @@
   - [Tool kiếm tiền qua TikTok](https://github.com/phucoding286/golike-tiktok-system)
 
 - **Tư duy & Chiến lược Giao dịch 💰**
+  1. Các mô hình price action
   - [Các mô hình price action phổ biến](https://traderviet.tv/t/top-9-mo-hinh-bieu-do-mai-dinh-doi-voi-cac-price-action-trader-chuyen-nghiep-p2.77080/)
   - [Các mẫu nến đảo chiều](https://www.dnse.com.vn/hoc/cac-mau-nen-dao-chieu-manh)
   - [Top các mô hình price action xác suất cao](https://samuraitradingacademy.com/7-best-price-action-patterns/)
   - [Hiểu về hổ trợ và kháng cự](https://www.vietcap.com.vn/kien-thuc/ho-tro-khang-cu-la-gi-cach-xac-dinh-vung-ho-tro-va-khang-cu)
   - [Hiểu về quản trị rủi ro](https://www.vietcap.com.vn/kien-thuc/ty-le-risk-reward-rui-ro-tren-loi-nhuan-la-gi)
+    
+  2. Các mô hình có thể đem trade thực tế và mang lại lợi nhuận.
   - [Video giải thích chi tiết hơn về mô hình Vai Đầu Vai](https://www.youtube.com/watch?v=868aujfHfHM)
   - [Video giải thích về mô hình 3 Đỉnh hoặc 3 Đáy](https://www.youtube.com/shorts/h2QPBsaJDgs)
   - [Video chi tiết về mô hình tam giác](https://www.youtube.com/watch?v=e7HfoQXT5XA)
+ 
+  3. Nền tảng dành cho backtest miễn phí.
   - [Nền tảng Trader Casa dành cho Backtest](https://traderscasa.com/)
