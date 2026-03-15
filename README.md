@@ -51,3 +51,4 @@
   - [Hiểu về hổ trợ và kháng cự](https://www.vietcap.com.vn/kien-thuc/ho-tro-khang-cu-la-gi-cach-xac-dinh-vung-ho-tro-va-khang-cu)
   - [Hiểu về quản trị rủi ro](https://www.vietcap.com.vn/kien-thuc/ty-le-risk-reward-rui-ro-tren-loi-nhuan-la-gi)
   - [Video giải thích chi tiết hơn về mô hình Vai Đầu Vai](https://www.youtube.com/watch?v=868aujfHfHM)
+  - [Video giải thích về mô hình 3 Đỉnh hoặc 3 Đáy](https://www.youtube.com/shorts/h2QPBsaJDgs)
