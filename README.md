@@ -48,3 +48,4 @@
   - [Các mô hình price action phổ biến](https://traderviet.tv/t/top-9-mo-hinh-bieu-do-mai-dinh-doi-voi-cac-price-action-trader-chuyen-nghiep-p2.77080/)
   - [Các mẫu nến đảo chiều](https://www.dnse.com.vn/hoc/cac-mau-nen-dao-chieu-manh)
   - [Top các mô hình price action xác suất cao](https://samuraitradingacademy.com/7-best-price-action-patterns/)
+  - [Hiểu về hổ trợ và kháng cự](https://www.vietcap.com.vn/kien-thuc/ho-tro-khang-cu-la-gi-cach-xac-dinh-vung-ho-tro-va-khang-cu)
