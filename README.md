@@ -55,7 +55,7 @@
   - Các mô hình có thể đem trade thực tế và mang lại lợi nhuận.
     - [Video giải thích chi tiết hơn về mô hình Vai Đầu Vai](https://www.youtube.com/watch?v=868aujfHfHM)
     - [Video giải thích về mô hình 3 Đỉnh hoặc 3 Đáy](https://www.youtube.com/shorts/h2QPBsaJDgs)
-    - [Video chi tiết về mô hình tam giác](https://www.youtube.com/watch?v=e7HfoQXT5XA)
+    - [Video chi tiết về mô hình Tam Giác](https://www.youtube.com/watch?v=e7HfoQXT5XA)
  
   - Nền tảng dành cho backtest miễn phí.
     - [Nền tảng Trader Casa dành cho Backtest](https://traderscasa.com/)
