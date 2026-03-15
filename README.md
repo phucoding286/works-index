@@ -49,3 +49,4 @@
   - [Các mẫu nến đảo chiều](https://www.dnse.com.vn/hoc/cac-mau-nen-dao-chieu-manh)
   - [Top các mô hình price action xác suất cao](https://samuraitradingacademy.com/7-best-price-action-patterns/)
   - [Hiểu về hổ trợ và kháng cự](https://www.vietcap.com.vn/kien-thuc/ho-tro-khang-cu-la-gi-cach-xac-dinh-vung-ho-tro-va-khang-cu)
+  - [Hiểu về quản trị rủi ro](https://www.vietcap.com.vn/kien-thuc/ty-le-risk-reward-rui-ro-tren-loi-nhuan-la-gi)
