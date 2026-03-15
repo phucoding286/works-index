@@ -46,4 +46,4 @@
 
 - **Tư duy & Chiến lược Giao dịch 💰**
   - [Các mô hình price action phổ biến](https://traderviet.tv/t/top-9-mo-hinh-bieu-do-mai-dinh-doi-voi-cac-price-action-trader-chuyen-nghiep-p2.77080/)
-  - [Các mô hình nến đảo chiều](https://www.dnse.com.vn/hoc/cac-mau-nen-dao-chieu-manh)
+  - [Các mẫu nến đảo chiều](https://www.dnse.com.vn/hoc/cac-mau-nen-dao-chieu-manh)
