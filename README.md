@@ -45,8 +45,4 @@
   - [Tool kiếm tiền qua TikTok](https://github.com/phucoding286/golike-tiktok-system)
 
 - **Tư duy & Chiến lược Giao dịch 💰**
-  - [Reversal Zone](https://github.com/phucoding286/reversal-zone) (Future Trade)
-  - [Trend Following](https://github.com/phucoding286/trend-following) (Future Trade)
-  - [Old S/R Backstep](https://github.com/phucoding286/old-SnR-backstep) (Future Trade) (Mô hình rõ ràng và xác suất cao)
-  - [DCA](https://github.com/phucoding286/dca) (Spot Trade)
-  - [Future Trade](https://github.com/phucoding286/future-trade)
+  - [Các mô hình price action phổ biến](https://traderviet.tv/t/top-9-mo-hinh-bieu-do-mai-dinh-doi-voi-cac-price-action-trader-chuyen-nghiep-p2.77080/)
