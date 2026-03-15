@@ -52,4 +52,5 @@
   - [Hiểu về quản trị rủi ro](https://www.vietcap.com.vn/kien-thuc/ty-le-risk-reward-rui-ro-tren-loi-nhuan-la-gi)
   - [Video giải thích chi tiết hơn về mô hình Vai Đầu Vai](https://www.youtube.com/watch?v=868aujfHfHM)
   - [Video giải thích về mô hình 3 Đỉnh hoặc 3 Đáy](https://www.youtube.com/shorts/h2QPBsaJDgs)
+  - [Video chi tiết về mô hình tam giác](https://www.youtube.com/watch?v=e7HfoQXT5XA)
   - [Nền tảng Trader Casa dành cho Backtest](https://traderscasa.com/)
