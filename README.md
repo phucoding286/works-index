@@ -60,3 +60,4 @@
   - Các tài nguyên dành cho newbie trở thành pro trader.
     - [Nền tảng Trader Casa dành cho Backtest](https://traderscasa.com/)
     - [Khóa học miễn phí cực kỳ bài bản và chi tiết về trading](https://www.youtube.com/playlist?list=PLxEDYlHgfhQqKoNqO84-9un1547rJL5sZ)
+    - [Trade Spot có tốt hơn Future không? (Ý kiến cá nhân: Tôi nghĩ là có và bền vững)](https://blog.mexc.com/vi/giao-dich-spot-co-tot-hon-giao-dich-futures-khong-creator-wilbur/)
