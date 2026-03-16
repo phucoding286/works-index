@@ -59,4 +59,4 @@
  
   - Các tài nguyên dành cho newbie trở thành pro trader.
     - [Nền tảng Trader Casa dành cho Backtest](https://traderscasa.com/)
-    - [Khóa học cực kỳ bài bản và chí tiết về trading](https://www.youtube.com/playlist?list=PLxEDYlHgfhQqKoNqO84-9un1547rJL5sZ)
+    - [Khóa học miễn phí cực kỳ bài bản và chi tiết về trading](https://www.youtube.com/playlist?list=PLxEDYlHgfhQqKoNqO84-9un1547rJL5sZ)
