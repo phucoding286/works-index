@@ -57,5 +57,6 @@
     - [Video giải thích về mô hình 3 Đỉnh hoặc 3 Đáy](https://www.youtube.com/shorts/h2QPBsaJDgs)
     - [Video chi tiết về mô hình Tam Giác](https://www.youtube.com/watch?v=e7HfoQXT5XA)
  
-  - Nền tảng dành cho backtest miễn phí.
+  - Các tài nguyên dành cho newbie trở thành pro trader.
     - [Nền tảng Trader Casa dành cho Backtest](https://traderscasa.com/)
+    - [Khóa học cực kỳ bài bản và chí tiết về trading](https://www.youtube.com/playlist?list=PLxEDYlHgfhQqKoNqO84-9un1547rJL5sZ)
