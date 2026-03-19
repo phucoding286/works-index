@@ -52,6 +52,7 @@
     - [Top các mô hình price action xác suất cao](https://samuraitradingacademy.com/7-best-price-action-patterns/)
     - [Hiểu về hổ trợ và kháng cự](https://www.vietcap.com.vn/kien-thuc/ho-tro-khang-cu-la-gi-cach-xac-dinh-vung-ho-tro-va-khang-cu)
     - [Hiểu về quản trị rủi ro](https://www.vietcap.com.vn/kien-thuc/ty-le-risk-reward-rui-ro-tren-loi-nhuan-la-gi)
+    - [Khóa học về Phương pháp SMC](https://www.youtube.com/playlist?list=PLgkAXSbxCd0y3BjfwLAE821JtoWiktceN)
     
   - Các mô hình có thể đem trade thực tế và mang lại lợi nhuận.
     - [Video giải thích chi tiết hơn về mô hình Vai Đầu Vai](https://www.youtube.com/watch?v=868aujfHfHM)
