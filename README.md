@@ -64,5 +64,7 @@
     - [Khóa học về Phương pháp SMC](https://www.youtube.com/playlist?list=PLgkAXSbxCd0y3BjfwLAE821JtoWiktceN)
     - [Trade Spot có tốt hơn Future không?](https://blog.mexc.com/vi/giao-dich-spot-co-tot-hon-giao-dich-futures-khong-creator-wilbur/) (Ý kiến cá nhân: Tôi nghĩ là có và bền vững hơn rất nhiều)
     - [Trade future/spot với chỉ báo](https://github.com/phucoding286/cong-thuc-giao-dich-bang-chi-bao) (Công thức tự phát triển)
+
+  - Các tài nguyên đang được tôi trade thật.
     - [Các bước Trade đơn giản, Thực tế, Dễ giữ kỷ luật](https://github.com/phucoding286/cach-trade-don-gian-thuc-te) (Các bước tự phát triển)
     - [Công cụ nhận diện trend](https://github.com/phucoding286/trend-bias-detection)
