@@ -67,4 +67,4 @@
 
   - Các tài nguyên đang được tôi trade thật.
     - [Các bước Trade đơn giản, Thực tế, Dễ giữ kỷ luật](https://github.com/phucoding286/cach-trade-don-gian-thuc-te) (Các bước tự phát triển)
-    - [Công cụ nhận diện trend](https://github.com/phucoding286/trend-bias-detection)
+    - [Công cụ nhận diện trend](https://github.com/phucoding286/trend-bias-detection) (By Phu)
