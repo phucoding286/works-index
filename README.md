@@ -66,5 +66,5 @@
     - [Trade future/spot với chỉ báo](https://github.com/phucoding286/cong-thuc-giao-dich-bang-chi-bao) (Công thức tự phát triển)
 
   - Các tài nguyên đang được tôi trade thật.
-    - [Các bước Trade đơn giản, Thực tế, Dễ giữ kỷ luật](https://github.com/phucoding286/cach-trade-don-gian-thuc-te) (Các bước tự phát triển)
+    - [Trade với Indicator-Mix](https://github.com/phucoding286/indicator-trade)
     - [Bộ công cụ hổ trợ nhận diện trend, và xác định thị trường.](https://github.com/phucoding286/trend-bias-detection) (By Phu)
