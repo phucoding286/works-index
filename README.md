@@ -52,19 +52,12 @@
     - [Top các mô hình price action xác suất cao](https://samuraitradingacademy.com/7-best-price-action-patterns/)
     - [Hiểu về hổ trợ và kháng cự](https://www.vietcap.com.vn/kien-thuc/ho-tro-khang-cu-la-gi-cach-xac-dinh-vung-ho-tro-va-khang-cu)
     - [Hiểu về quản trị rủi ro](https://www.vietcap.com.vn/kien-thuc/ty-le-risk-reward-rui-ro-tren-loi-nhuan-la-gi)
-    
-  - Các mô hình có thể đem trade thực tế và mang lại lợi nhuận.
-    - [Video giải thích chi tiết hơn về mô hình Vai Đầu Vai](https://www.youtube.com/watch?v=868aujfHfHM)
-    - [Video giải thích về mô hình 3 Đỉnh hoặc 3 Đáy](https://www.youtube.com/shorts/h2QPBsaJDgs)
-    - [Video chi tiết về mô hình Tam Giác](https://www.youtube.com/watch?v=e7HfoQXT5XA)
  
   - Các tài nguyên dành cho newbie trở thành pro trader.
     - [Nền tảng Trader Casa dành cho Backtest](https://traderscasa.com/)
     - [Khóa học miễn phí cực kỳ bài bản và chi tiết về trading](https://www.youtube.com/playlist?list=PLxEDYlHgfhQqKoNqO84-9un1547rJL5sZ)
     - [Khóa học về Phương pháp SMC](https://www.youtube.com/playlist?list=PLgkAXSbxCd0y3BjfwLAE821JtoWiktceN)
-    - [Trade Spot có tốt hơn Future không?](https://blog.mexc.com/vi/giao-dich-spot-co-tot-hon-giao-dich-futures-khong-creator-wilbur/) (Ý kiến cá nhân: Tôi nghĩ là có và bền vững hơn rất nhiều)
-    - [Trade future/spot với chỉ báo](https://github.com/phucoding286/cong-thuc-giao-dich-bang-chi-bao) (Công thức tự phát triển)
 
   - Các tài nguyên đang được tôi trade thật.
     - [Trade với Indicator-Mix](https://github.com/phucoding286/indicator-trade)
-    - [Bộ công cụ hổ trợ nhận diện trend, và xác định thị trường.](https://github.com/phucoding286/trend-bias-detection)
+    - [Cách trade tối ưu](https://github.com/phucoding286/cach-trade-toi-uu)
