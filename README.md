@@ -63,3 +63,10 @@
   - Các tài nguyên đang được tôi trade thật.
     - [Trade với Indicator-Mix](https://github.com/phucoding286/indicator-trade)
     - [Cách trade tối ưu](https://github.com/phucoding286/cach-trade-toi-uu)
+
+   
+---
+   
+### 3. Các Tài nguyên, Nguồn tài liệu học tập, hổ trợ phát triển game.
+- **Các khóa học Unity/C# miễn phí.**
+  - [Khóa học Unity/C# cơ bản.](https://www.youtube.com/playlist?list=PLQTSNYJ7ollRU_K3UObaGPj0BVazhEbZR)
