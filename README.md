@@ -70,3 +70,4 @@
 ### 3. Các Tài nguyên, Nguồn tài liệu học tập, hổ trợ phát triển game.
 - **Các khóa học Unity/C# miễn phí.**
   - [Khóa học Unity/C# cơ bản.](https://www.youtube.com/playlist?list=PLw2nfWzUTIAkZGD8r2jPjVw-sSCIIV1wa)
+  - [Khóa học Blender cơ bản đến nâng cao.](https://www.youtube.com/playlist?list=PLjwKgtGkoR2FxnWHF8biLBcHsape7Y_MM)
