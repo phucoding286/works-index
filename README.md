@@ -27,7 +27,7 @@
   - [Mô hình VAE - tự triển khai](https://github.com/phucoding286/variantional_autoencoders_VAE_Project)
  
 - **NLP Datasets**
-  - Các module crawl dữ liệu văn bản.
+  - Các module xử lý dữ liệu văn bản hoặc crawl.
     - [Module đọc/ghi dữ liệu văn bản vào file json, tối ưu.](https://github.com/phucoding286/text-json-writer-for-big-dataset)
       
   - Các dữ liệu NLP demo.
