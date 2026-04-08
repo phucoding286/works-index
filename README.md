@@ -11,6 +11,8 @@
 
 ## 🧾 Các mục bên dưới
 
+---
+
 ### 1. Các dự án về trí tuệ nhân tạo 💻📊
 
 - **NLP (Deep Learning)**
