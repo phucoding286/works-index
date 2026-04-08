@@ -16,17 +16,17 @@
 ### 1. Các dự án về trí tuệ nhân tạo 💻📊
 
 - **NLP (Deep Learning)**
-  - [Full thuật toán Tokenizer – Byte Pair Encoding (BPE) được viết từ đầu bằng Python.](https://github.com/phucoding286/causal-language-model/tree/main/tokenizer)
-  - [Thuật toán BPE (Bản Fixbugs, Khuyên dùng nhất)](https://github.com/phucoding286/causal-language-model/tree/main/tokenizer_fixbug_version)
-  - [Mô hình Language Model bản chuẩn (có sampling & hàm generate trong lớp mô hình)](https://github.com/phucoding286/causal-language-model/tree/main/language_model)
-  - [Biến thể kiến trúc Self-Attention do tôi thiết kế ⚡](https://github.com/phucoding286/causal-language-model/tree/main/variants)
+  - [Full thuật toán Tokenizer – Byte Pair Encoding (BPE) được viết từ đầu bằng Python.](https://github.com/phucoding286/causal-language-model/tree/main/tokenizer) (Tự triển khai)
+  - [Thuật toán BPE.](https://github.com/phucoding286/causal-language-model/tree/main/tokenizer_fixbug_version) (Bản Fix bugs, Khuyên dùng nhất) (Tự triển khai)
+  - [Mô hình Language Model bản chuẩn (có sampling & hàm generate trong lớp mô hình)](https://github.com/phucoding286/causal-language-model/tree/main/language_model) (Tự triển khai) (Production)
+  - [Biến thể kiến trúc Self-Attention do tôi thiết kế ⚡](https://github.com/phucoding286/causal-language-model/tree/main/variants) (! Thử nghiệm)
 
 - **Computer Vision (Deep Learning)**
-  - [Mô hình U-Net gốc (2015) – code thử nghiệm](https://github.com/phucoding286/u-net-2015-test-code)
-  - [Mô hình Vision Transformer (ViT) - code thử nghiệm](https://github.com/phucoding286/vision-transformer-testcode)
-  - [Khối ResNet - tự triển khai](https://github.com/phucoding286/resnet-by-phu)
-  - [Mô hình DDPM - tự triển khai](https://github.com/phucoding286/denoise_diffusion_probability_model_ddpm_Project)
-  - [Mô hình VAE - tự triển khai](https://github.com/phucoding286/variantional_autoencoders_VAE_Project)
+  - [Mô hình U-Net gốc (2015)](https://github.com/phucoding286/u-net-2015-test-code) (Code thử nghiệm)
+  - [Mô hình Vision Transformer (ViT)](https://github.com/phucoding286/vision-transformer-testcode) (Code thử nghiệm)
+  - [Khối ResNet.](https://github.com/phucoding286/resnet-by-phu) (Tự triển khai)
+  - [Mô hình DDPM.](https://github.com/phucoding286/denoise_diffusion_probability_model_ddpm_Project) (Tự triển khai)
+  - [Mô hình VAE.](https://github.com/phucoding286/variantional_autoencoders_VAE_Project) (Tự triển khai)
  
 - **NLP Datasets**
   - Các module xử lý dữ liệu văn bản hoặc crawl.
