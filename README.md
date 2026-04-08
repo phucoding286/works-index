@@ -13,13 +13,13 @@
 
 ### 1. Các dự án về trí tuệ nhân tạo 💻📊
 
-- **NLP**
+- **NLP (Deep Learning)**
   - [Full thuật toán Tokenizer – Byte Pair Encoding (BPE) được viết từ đầu bằng Python.](https://github.com/phucoding286/causal-language-model/tree/main/tokenizer)
   - [Thuật toán BPE (Bản Fixbugs, Khuyên dùng nhất)](https://github.com/phucoding286/causal-language-model/tree/main/tokenizer_fixbug_version)
   - [Mô hình Language Model bản chuẩn (có sampling & hàm generate trong lớp mô hình)](https://github.com/phucoding286/causal-language-model/tree/main/language_model)
   - [Biến thể kiến trúc Self-Attention do tôi thiết kế ⚡](https://github.com/phucoding286/causal-language-model/tree/main/variants)
 
-- **Computer Vision**
+- **Computer Vision (Deep Learning)**
   - [Mô hình U-Net gốc (2015) – code thử nghiệm](https://github.com/phucoding286/u-net-2015-test-code)
   - [Mô hình Vision Transformer (ViT) - code thử nghiệm](https://github.com/phucoding286/vision-transformer-testcode)
   - [Khối ResNet - tự triển khai](https://github.com/phucoding286/resnet-by-phu)
