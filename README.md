@@ -29,6 +29,7 @@
 - **NLP Datasets**
   - Các module crawl dữ liệu văn bản.
     - [Module đọc/ghi dữ liệu văn bản vào file json, tối ưu.](https://github.com/phucoding286/text-json-writer-for-big-dataset)
+      
   - Các dữ liệu NLP demo.
     - Bộ datasets tiếng việt đa dạng mà tôi tự crawl từ internet dành cho pretrain Language Model.
       - [Data Patch 1 (2.15GB)](https://drive.google.com/file/d/1x3kXh2z32paOGJFIHQ71fuleCuzONGev/view?usp=sharing)
