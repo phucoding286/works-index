@@ -18,7 +18,7 @@
 - **NLP (Deep Learning)**
   - [Full thuật toán Tokenizer – Byte Pair Encoding (BPE) được viết từ đầu bằng Python.](https://github.com/phucoding286/causal-language-model/tree/main/tokenizer) (Tự triển khai)
   - [Thuật toán BPE.](https://github.com/phucoding286/causal-language-model/tree/main/tokenizer_fixbug_version) (Bản Fix bugs, Khuyên dùng nhất) (Tự triển khai)
-  - [Mô hình Language Model bản chuẩn (có sampling & hàm generate trong lớp mô hình)](https://github.com/phucoding286/causal-language-model/tree/main/language_model) (Tự triển khai) (Production)
+  - [Full mô hình Language Model bản chuẩn hiện đại.](https://github.com/phucoding286/causal-language-model/tree/main/language_model) (Tự triển khai) (Production)
   - [Biến thể kiến trúc Self-Attention do tôi thiết kế ⚡](https://github.com/phucoding286/causal-language-model/tree/main/variants) (! Thử nghiệm)
 
 - **Computer Vision (Deep Learning)**
