@@ -68,7 +68,7 @@
 
   - Các tài nguyên đang được tôi trade thật.
     - [Trade với Indicator-Mix](https://github.com/phucoding286/indicator-trade)
-    - [Cách trade tối ưu](https://github.com/phucoding286/cach-trade-toi-uu)
+    - [Cách trade tối ưu](https://github.com/phucoding286/cach-trade-toi-uu) (Kiếm tiền thực tế.)
 
    
 ---
