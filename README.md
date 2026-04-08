@@ -33,10 +33,10 @@
     - [Module đọc/ghi dữ liệu văn bản vào file json, tối ưu.](https://github.com/phucoding286/text-json-writer-for-big-dataset)
     - [Module lọc trùng lặp urls, tối ưu hóa, hổ trợ cho việc crawling.](https://github.com/phucoding286/duplicate-filter)
       
-  - Các dữ liệu NLP demo.
-    - Bộ datasets tiếng việt đa dạng mà tôi tự crawl từ internet dành cho pretrain Language Model.
+  - Các dữ liệu NLP demo pretraining cho Langugae Model.
+    - Bộ datasets tiếng việt đa dạng. (Tự crawl)
       - [Data Patch 1 (2.15GB)](https://drive.google.com/file/d/1x3kXh2z32paOGJFIHQ71fuleCuzONGev/view?usp=sharing)
-    - Bộ datasets truyện chữ tiếng việt mà tôi tự crawl từ sstruyen.com.vn dành cho pretrain Language Model.
+    - Bộ datasets truyện chữ tiếng việt từ sstruyen.com.vn. (Tự crawl)
       - [Data Patch 1 (3.59GB)](https://drive.google.com/file/d/16qesFoJ77pRMQOA2OhdKYay4eC5K0uc8/view?usp=sharing)
       - [Data Patch 2 (4.1GB)](https://drive.google.com/file/d/1xBi5yqs708vCdVCkOrX4-ngbsEhsxRRJ/view?usp=sharing)
 
