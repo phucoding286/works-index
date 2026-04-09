@@ -36,7 +36,7 @@
     - [Module crawl webtext content, tự lọc urls, hổ trợ việc crawl webtext data.](https://github.com/phucoding286/url-extract-crawler)
 
   - Bộ datasets NLP dành cho việc train Language Model.
-    - [Các bộ dữ liệu NLP demo pretraining cho Langugae Model.](https://github.com/phucoding286/text-datasets-demo-for-training-language-model) (Tự crawl)
+    - [Các bộ dữ liệu NLP nhỏ demo pretraining cho Langugae Model.](https://github.com/phucoding286/text-datasets-demo-for-training-language-model) (Tự crawl)
     - [Các bộ dữ liệu lớn dành cho việc pretraining Language Model nghiêm túc.](https://github.com/phucoding286/datasets-for-train-language-model) (Tự crawl)
 
 
