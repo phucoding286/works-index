@@ -53,11 +53,7 @@
 
 - **Tư duy & Chiến lược Giao dịch 💰**
   - [Các mô hình prices action cơ bản và cách trade cơ bản.](https://github.com/phucoding286/basic-pricesaction-models) (Tổng hợp từ nhiều nguồn)
- 
-  - Các tài nguyên dành cho newbie trở thành pro trader.
-    - [Nền tảng Trader Casa dành cho Backtest.](https://traderscasa.com/)
-    - [Khóa học miễn phí cực kỳ bài bản và chi tiết về trading.](https://www.youtube.com/playlist?list=PLxEDYlHgfhQqKoNqO84-9un1547rJL5sZ)
-    - [Khóa học về Phương pháp SMC.](https://www.youtube.com/playlist?list=PLgkAXSbxCd0y3BjfwLAE821JtoWiktceN)
+  - [Các khóa học prices action nâng cao và tài nguyên dành cho newbie trở thành pro trader.](https://github.com/phucoding286/advanced-priceactions-models-and-resoures) (Tổng hợp)
 
   - Các tài nguyên đang được tôi trade thật.
     - [Trade với Indicator-Mix.](https://github.com/phucoding286/indicator-trade)
