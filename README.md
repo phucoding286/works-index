@@ -30,10 +30,10 @@
  
 - **NLP Datasets**
   - Các module xử lý dữ liệu văn bản hoặc crawl.
-    - [Module đọc/ghi dữ liệu văn bản vào file json, tối ưu.](https://github.com/phucoding286/text-json-writer-for-big-dataset)
-    - [Module lọc trùng lặp urls, tối ưu hóa, hổ trợ cho việc crawling.](https://github.com/phucoding286/duplicate-filter)
-    - [Module data buffer, lưu dữ liệu trên ram trước khi ghi, bảo vệ disk và data.](https://github.com/phucoding286/data-buffer)
-    - [Module crawl webtext content, tự lọc urls, hổ trợ việc crawl webtext data.](https://github.com/phucoding286/url-extract-crawler)
+    - [Module đọc/ghi dữ liệu văn bản vào file json, tối ưu.](https://github.com/phucoding286/text-json-writer-for-big-dataset) (Created by Phu)
+    - [Module lọc trùng lặp urls, tối ưu hóa, hổ trợ cho việc crawling.](https://github.com/phucoding286/duplicate-filter) (Created by Phu)
+    - [Module data buffer, lưu dữ liệu trên ram trước khi ghi, bảo vệ disk và data.](https://github.com/phucoding286/data-buffer) (Created by Phu)
+    - [Module crawl webtext content, tự lọc urls, hổ trợ việc crawl webtext data.](https://github.com/phucoding286/url-extract-crawler) (Created by Phu)
 
   - Bộ datasets NLP dành cho việc train Language Model.
     - [Các bộ dữ liệu NLP nhỏ demo pretraining cho Langugae Model.](https://github.com/phucoding286/text-datasets-demo-for-training-language-model) (Tự crawl)
