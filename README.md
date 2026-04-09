@@ -17,7 +17,7 @@
 
 - **NLP (Deep Learning)**
   - [Full thuật toán Tokenizer BPE được viết từ đầu bằng Python.](https://github.com/phucoding286/causal-language-model/tree/main/tokenizer) (Tự triển khai) (Bản cũ) (Có một số lỗi)
-  - [Thuật toán BPE (Fix postspace to prespace).](https://github.com/phucoding286/causal-language-model/tree/main/tokenizer_fixbug_version) (Bản Fix bugs, Khuyên dùng nhất) (Tự triển khai)
+  - [Thuật toán BPE (Fix postspace to prespace).](https://github.com/phucoding286/causal-language-model/tree/main/tokenizer_fixbug_version) (Bản Fix bug) (Khuyên dùng nhất) (Tự triển khai)
   - [Full mô hình Language Model bản chuẩn hiện đại.](https://github.com/phucoding286/causal-language-model/tree/main/language_model) (Tự triển khai) (Production)
   - [Biến thể kiến trúc Self-Attention do tôi thiết kế ⚡](https://github.com/phucoding286/causal-language-model/tree/main/variants) (! Thử nghiệm)
 
