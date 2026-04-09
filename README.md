@@ -70,7 +70,7 @@
 ---
 
 
-## Tiến trình và định hướng của kế hoạch tổng thể.
+## 🧾📄 TIẾN TRÌNH VÀ ĐỊNH HƯỚNG TỔNG THỂ CỦA SIÊU KẾ HOẠCH DÀI HẠN.
 
 - **Kế hoạch bước 1: Kế hoạch xây dựng tài chính, gia sản.** (Tiêu chí xác nhận hoàn thành: Đạt mốc 50 triệu VND)
   - Các nhánh đang hướng tới.
