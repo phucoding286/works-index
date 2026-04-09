@@ -87,3 +87,7 @@
     - Học và hiểu sâu lĩnh vực AI Machine/Deep Learning và xây dựng các mô hình sản phẩm. (Đã hoàn thành)
     - Học và hiểu sâu về lĩnh vực Nhúng/Robostic và xây dựng các thiết bị vận hành đơn giản. (Chưa thực hiện) (Chưa hoàn thành)
   - ```! Hiện tại kế hoạch bước 2 chưa rõ ràng, kế hoạch bước 2 cần kế hoạch bước 1 hoàn thành để cung cấp nguồn lực tài chính cho việc nghiên cứu, phát triển, mua trang thiết bị và công nghệ, tài nguyên tính toán.```
+
+- ```! Các bước tiếp theo sẽ được tính tới sau khi hoàn thành bước 1 và bước 2.```
+- 🕧 Thời gian đã phát triển tính từ thời điểm khởi đầu vào tháng 6 năm 2023, đến nay là 2026, khoảng 3 năm.
+- Ước tính kế hoạch 1 sẽ hoàn thành trước khi bước vào đầu năm 2027.
