@@ -33,6 +33,7 @@
     - [Module đọc/ghi dữ liệu văn bản vào file json, tối ưu.](https://github.com/phucoding286/text-json-writer-for-big-dataset)
     - [Module lọc trùng lặp urls, tối ưu hóa, hổ trợ cho việc crawling.](https://github.com/phucoding286/duplicate-filter)
     - [Module data buffer, lưu dữ liệu trên ram trước khi ghi, bảo vệ disk và data.](https://github.com/phucoding286/data-buffer)
+    - [Module crawl webtext content, tự lọc urls, hổ trợ việc crawl webtext data.](https://github.com/phucoding286/url-extract-crawler)
       
   - Các dữ liệu NLP demo pretraining cho Langugae Model.
     - Bộ datasets tiếng việt đa dạng. (Tự crawl)
