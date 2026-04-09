@@ -78,10 +78,10 @@
     - Giao dịch/Đầu tư. (Đã có công thức giao dịch ổn định, kiếm lãi thật) (Đã hoàn thành)
     - Dự án AI LDM generate NSFW images, nhắm vào thị trường NSFW. (Đang thực hiện) (Chưa hoàn thành)
     - Kế hoạch phát triển game, nhắm vào thị trường game mobile offline và kiếm tiền từ ADS. (Chuẩn bị thực hiện) (Chưa hoàn thành)
-  ! Hiện tại tạm thời mở ra 4 nhánh này, tương lai có thể mở rộng thêm.
+  - ```! Hiện tại tạm thời mở ra 4 nhánh này, tương lai có thể mở rộng thêm.```
 
 - **Kế hoạch bước 2: Kế hoạch tập trung ứng dụng trí tuệ nhân tạo vào đời sống thông qua robot.** (Tiêu chí xác nhận hoàn thành: Tạo ra các robot dạng người có thể di chuyển cơ bản)
   - Các bước hướng tới.
     - Học và hiểu sâu lĩnh vực AI Machine/Deep Learning và xây dựng các mô hình sản phẩm. (Đã hoàn thành)
     - Học và hiểu sâu về lĩnh vực Nhúng/Robostic và xây dựng các thiết bị vận hành đơn giản. (Chưa thực hiện) (Chưa hoàn thành)
-  ! Hiện tại kế hoạch bước 2 chưa rõ ràng, kế hoạch bước 2 cần kế hoạch bước 1 hoàn thành để cung cấp nguồn lực tài chính cho việc nghiên cứu, phát triển, mua trang thiết bị và công nghệ, tài nguyên tính toán.
+  - ```! Hiện tại kế hoạch bước 2 chưa rõ ràng, kế hoạch bước 2 cần kế hoạch bước 1 hoàn thành để cung cấp nguồn lực tài chính cho việc nghiên cứu, phát triển, mua trang thiết bị và công nghệ, tài nguyên tính toán.```
