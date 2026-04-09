@@ -34,14 +34,9 @@
     - [Module lọc trùng lặp urls, tối ưu hóa, hổ trợ cho việc crawling.](https://github.com/phucoding286/duplicate-filter)
     - [Module data buffer, lưu dữ liệu trên ram trước khi ghi, bảo vệ disk và data.](https://github.com/phucoding286/data-buffer)
     - [Module crawl webtext content, tự lọc urls, hổ trợ việc crawl webtext data.](https://github.com/phucoding286/url-extract-crawler)
-      
-  - Các dữ liệu NLP demo pretraining cho Langugae Model.
-    - Bộ datasets tiếng việt đa dạng. (Tự crawl)
-      - [Data Patch 1 (2.15GB)](https://drive.google.com/file/d/1x3kXh2z32paOGJFIHQ71fuleCuzONGev/view?usp=sharing)
-    - Bộ datasets truyện chữ tiếng việt từ sstruyen.com.vn. (Tự crawl)
-      - [Data Patch 1 (3.59GB)](https://drive.google.com/file/d/16qesFoJ77pRMQOA2OhdKYay4eC5K0uc8/view?usp=sharing)
-      - [Data Patch 2 (4.1GB)](https://drive.google.com/file/d/1xBi5yqs708vCdVCkOrX4-ngbsEhsxRRJ/view?usp=sharing)
 
+  - Bộ datasets NLP dành cho việc train Language Model.
+    - [Các dữ liệu NLP demo pretraining cho Langugae Model.](https://github.com/phucoding286/text-datasets-demo-for-training-language-model) (Tự crawl.)
 
 
 ---
