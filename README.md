@@ -34,7 +34,7 @@
     - [Module lọc trùng lặp urls, tối ưu hóa, hổ trợ cho việc crawling.](https://github.com/phucoding286/duplicate-filter) (Created by Phu)
     - [Module data buffer, lưu dữ liệu trên ram trước khi ghi, bảo vệ disk và data.](https://github.com/phucoding286/data-buffer) (Created by Phu)
     - [Module crawl webtext content, tự lọc urls, hổ trợ việc crawl webtext data.](https://github.com/phucoding286/url-extract-crawler) (Created by Phu)
-    - [Công cụ giúp bạn combine dữ liệu và chia ra thành từng file con, phục vụ xử lý dữ liệu khủng.](https://github.com/phucoding286/patch-combiner-datasets) (Created by Phu)
+    - [Công cụ giúp combine bigdata và chia ra thành từng file con, phục vụ xử lý data khủng.](https://github.com/phucoding286/patch-combiner-datasets) (Created by Phu)
 
   - Bộ datasets NLP dành cho việc train Language Model.
     - [Các bộ dữ liệu NLP nhỏ demo pretraining cho Langugae Model.](https://github.com/phucoding286/text-datasets-demo-for-training-language-model) (Tự crawl)
