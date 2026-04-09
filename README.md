@@ -52,12 +52,7 @@
   - [Tool kiếm tiền qua Tiktok (V2)](https://github.com/phucoding286/golike-tiktok-v2) (Khuyên dùng)
 
 - **Tư duy & Chiến lược Giao dịch 💰**
-  - Các mô hình price action
-    - [Các mô hình price action phổ biến.](https://traderviet.tv/t/top-9-mo-hinh-bieu-do-mai-dinh-doi-voi-cac-price-action-trader-chuyen-nghiep-p2.77080/)
-    - [Các mẫu nến đảo chiều.](https://www.dnse.com.vn/hoc/cac-mau-nen-dao-chieu-manh)
-    - [Top các mô hình price action xác suất cao.](https://samuraitradingacademy.com/7-best-price-action-patterns/)
-    - [Hiểu về hổ trợ và kháng cự.](https://www.vietcap.com.vn/kien-thuc/ho-tro-khang-cu-la-gi-cach-xac-dinh-vung-ho-tro-va-khang-cu)
-    - [Hiểu về quản trị rủi ro.](https://www.vietcap.com.vn/kien-thuc/ty-le-risk-reward-rui-ro-tren-loi-nhuan-la-gi)
+  - [Các mô hình prices action cơ bản và cách trade cơ bản.](https://github.com/phucoding286/basic-pricesaction-models) (Tổng hợp từ nhiều nguồn)
  
   - Các tài nguyên dành cho newbie trở thành pro trader.
     - [Nền tảng Trader Casa dành cho Backtest.](https://traderscasa.com/)
