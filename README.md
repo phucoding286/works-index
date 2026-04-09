@@ -68,10 +68,10 @@
 
 
 ---
----
 
 
-## Tiến trình kế hoạch tổng thể.
+## Tiến trình và định hướng của kế hoạch tổng thể.
+
 - **Kế hoạch bước 1: Kế hoạch xây dựng tài chính, gia sản.** (Tiêu chí xác nhận hoàn thành: Đạt mốc 50 triệu VND)
   - Các nhánh đang hướng tới.
     - Tool/System automation. (Đã có một vài hệ thống, kiếm tiền thật) (Đã hoàn thành)
