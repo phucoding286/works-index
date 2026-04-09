@@ -54,7 +54,7 @@
 - **Tư duy & Chiến lược Giao dịch 💰**
   - [Các mô hình prices action cơ bản và cách trade cơ bản.](https://github.com/phucoding286/basic-pricesaction-models) (Tổng hợp từ nhiều nguồn)
   - [Các khóa học prices action nâng cao và tài nguyên dành cho newbie trở thành pro trader.](https://github.com/phucoding286/advanced-priceactions-models-and-resoures) (Tổng hợp)
-  - [Các tài nguyên đang được tôi trade thật, kiếm tiền thật.](https://github.com/phucoding286/my-trade-strategy)
+  - [Các tài nguyên đang được tôi trade thật, kiếm tiền thật.](https://github.com/phucoding286/my-trade-strategy) (Tự phát triển)
 
    
 ---
