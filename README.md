@@ -37,7 +37,7 @@
 
   - Bộ datasets NLP dành cho việc train Language Model.
     - [Các bộ dữ liệu NLP demo pretraining cho Langugae Model.](https://github.com/phucoding286/text-datasets-demo-for-training-language-model) (Tự crawl)
-    - [Các bộ dữ liệu lớn dành cho việc pretraining Language Model.](https://github.com/phucoding286/datasets-for-train-language-model) (Tự crawl)
+    - [Các bộ dữ liệu lớn dành cho việc pretraining Language Model nghiêm túc.](https://github.com/phucoding286/datasets-for-train-language-model) (Tự crawl)
 
 
 ---
