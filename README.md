@@ -66,6 +66,11 @@
   - [Khóa học Blender cơ bản đến nâng cao.](https://www.youtube.com/playlist?list=PLjwKgtGkoR2FxnWHF8biLBcHsape7Y_MM)
 
 
+
+---
+---
+
+
 ## Tiến trình kế hoạch tổng thể.
 - **Kế hoạch bước 1: Kế hoạch xây dựng tài chính, gia sản.** (Tiêu chí xác nhận hoàn thành: Đạt mốc 50 triệu VND)
   - Các nhánh đang hướng tới.
