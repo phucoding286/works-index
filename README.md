@@ -1,13 +1,11 @@
 ## 📄 CHÀO MỪNG TỚI REPO QUẢN LÝ CÁC DỰ ÁN, HOẶC NHỮNG ĐIỀU QUAN TRỌNG CỦA TÔI
 
 > **Lưu ý**
-> Đây chỉ là một kho lưu trữ chứa các link điều hướng và nhóm các dự án quan trọng của tôi.
 
-> Nó không có mục đích công khai hay khoe thành tích hoặc dùng để làm profile xin việc, mục đích chủ yếu là để quản lý và kiểm soát tiến độ và dự án.
-
-> Phần lớn có thể ở trạng thái `private (Truy cập sẽ gây lỗi 404)` hoặc một số sẽ `public (Có thể truy cập)`.
-
-> Nếu bạn là **người truy cập bên ngoài**, vui lòng bỏ qua hoặc liên hệ với tôi qua các nền tảng sau.
+- Đây chỉ là một kho lưu trữ chứa các link điều hướng và nhóm các dự án quan trọng của tôi.
+- Nó không có mục đích công khai hay khoe thành tích hoặc dùng để làm profile xin việc, mục đích chủ yếu là để quản lý và kiểm soát tiến độ và dự án.
+- Phần lớn có thể ở trạng thái `private (Truy cập sẽ gây lỗi 404)` hoặc một số sẽ `public (Có thể truy cập)`.
+- Nếu bạn là **người truy cập bên ngoài**, vui lòng bỏ qua hoặc liên hệ với tôi qua các nền tảng sau.
 
 - Facebook: https://www.facebook.com/hoangphu020
 
