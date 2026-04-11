@@ -28,6 +28,7 @@
   - [Khối ResNet.](https://github.com/phucoding286/resnet-by-phu) (Tự triển khai)
   - [Mô hình DDPM.](https://github.com/phucoding286/denoise_diffusion_probability_model_ddpm_Project) (Tự triển khai)
   - [Mô hình VAE.](https://github.com/phucoding286/variantional_autoencoders_VAE_Project) (Tự triển khai)
+  - [Notebook triển khai và huấn luyện Latent Diffusion Model (LDM)](https://colab.research.google.com/drive/1ZaDwqgKsOHqzWp1loHkIIAuuolVGSOoY?authuser=1#scrollTo=n3xpmDX898yV) (Tự triển khai)
  
 - **NLP Datasets**
   - Các module xử lý dữ liệu văn bản hoặc crawl.
