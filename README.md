@@ -82,7 +82,7 @@
     - Tool/System automation. (Đã có một vài hệ thống, kiếm tiền thật) (Đã hoàn thành)
     - Giao dịch/Đầu tư. (Đã có công thức giao dịch ổn định, kiếm lãi thật) (Đã hoàn thành)
     - Dự án AI LDM generate NSFW images, nhắm vào thị trường NSFW. (Đang thực hiện) (Chưa hoàn thành)
-    - Kế hoạch phát triển game, nhắm vào thị trường game mobile offline và kiếm tiền từ ADS. (Chuẩn bị thực hiện) (Chưa hoàn thành)
+    - Kế hoạch phát triển game, nhắm vào thị trường game mobile offline và kiếm tiền từ ADS. (Đang thực hiện) (Chưa hoàn thành)
       - ```! Deadline trong 3 tháng phải làm được game đầu tiên có gắn ADS và đăng tải nó lên play store.```
       - Mục tiêu 1: Thành thạo unity và cách code C# trên unity, và biết các nguồn tài nguyên asset miễn phí, tạo ra các game 2D cơ bản (Thời hạn 1 tháng tính từ ngày 13 tháng 4 năm 2026 đến ngày 13 tháng 5 năm 2026)
       - Mục tiêu 2: Tạo ra các game 3D tiêu chuẩn (Thời hạn 1 tháng tính từ ngày 13 tháng 5 năm 2026 đến ngày 13 tháng 6 năm 2026)
