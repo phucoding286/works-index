@@ -105,3 +105,6 @@
 - Ước tính kế hoạch 1 sẽ hoàn thành trước khi bước vào đầu năm 2027.
 - Ước tính khoản thời gian hoàn thành tổng kế hoạch bước 2 là 5 năm nữa.
 - Cập nhật lần cuối: Ngày 10 Tháng 4 Năm 2026.
+
+---
+> [CÁC ĐỊNH HƯỚNG VÀ KỶ LUẬT CÁ NHÂN THUỘC KẾ HOẠCH NHƯNG VÌ LÝ DO CÁ NHÂN NÊN VIẾT RIÊNG.](https://github.com/phucoding286/my-discipline-and-orients)
