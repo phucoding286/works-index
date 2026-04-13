@@ -89,7 +89,7 @@
         - Mục tiêu 3: Tạo ra các games hoàn chỉnh và đăng tải lên play store (Thời hạn 1 tháng tính từ ngày 13 tháng 6 năm 2026 đến ngày 13 tháng 7 năm 2026) (Chưa hoàn thành)
         - Mục tiêu 4: Học và thành thạo việc modeling trong blender. (Tạm thời chưa tính đến)
         - Mục tiêu 5: Học và thành thạo việc animation và rigging trong blender. (Tạm thời chưa tính đến.)
-        - ```! Việc học về blender rất quan trọng, nó là bước tạo ra asset cá nhân thay vì đi dùng asset free.```
+      - ```! Việc học về blender rất quan trọng, nó là bước tạo ra asset cá nhân thay vì đi dùng asset free.```
   - ```! Hiện tại tạm thời mở ra 4 nhánh này, tương lai có thể mở rộng thêm.```
 
 - **Kế hoạch bước 2: Kế hoạch tập trung ứng dụng trí tuệ nhân tạo vào đời sống thông qua robot.** (Tiêu chí xác nhận hoàn thành: Tạo ra các robot dạng người có thể di chuyển cơ bản)
