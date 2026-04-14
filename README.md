@@ -78,7 +78,7 @@
 ## 🧾📄 TIẾN TRÌNH VÀ ĐỊNH HƯỚNG TỔNG THỂ CỦA SIÊU KẾ HOẠCH DÀI HẠN.
 
 - 📄 **Kế hoạch bước 1: Kế hoạch xây dựng tài chính, gia sản.** (Tiêu chí xác nhận hoàn thành: Đạt mốc 50 triệu VND)
-  - ! Hiện tại tạm thời mở ra 4 nhánh này, tương lai có thể mở rộng thêm. [Giải thích chi tiết về cách vận hành của kế hoạch bước 1 (Xây dựng gia sản)](https://github.com/phucoding286/explain-plan-step1)
+  - ```! Hiện tại tạm thời mở ra 4 nhánh này, tương lai có thể mở rộng thêm. [Giải thích chi tiết về cách vận hành của kế hoạch bước 1 (Xây dựng gia sản)](https://github.com/phucoding286/explain-plan-step1)```
   - 🧷 Các nhánh đang hướng tới.
     - Tool/System automation. (Đã có một vài hệ thống, kiếm tiền thật) (Đã hoàn thành)
     - Giao dịch/Đầu tư. (Đã có công thức giao dịch ổn định, kiếm lãi thật) (Đã hoàn thành)
@@ -90,7 +90,7 @@
 ##
 
 - 📄 **Kế hoạch bước 2: Kế hoạch tập trung ứng dụng trí tuệ nhân tạo vào đời sống thông qua robot.** (Tiêu chí xác nhận hoàn thành: Tạo ra các robot dạng người có thể di chuyển cơ bản)
-  - ! Hiện tại kế hoạch bước 2 chưa rõ ràng, kế hoạch bước 2 cần kế hoạch bước 1 hoàn thành để cung cấp nguồn lực tài chính cho việc nghiên cứu, phát triển, mua trang thiết bị và công nghệ, tài nguyên tính toán.
+  - ```! Hiện tại kế hoạch bước 2 chưa rõ ràng, kế hoạch bước 2 cần kế hoạch bước 1 hoàn thành để cung cấp nguồn lực tài chính cho việc nghiên cứu, phát triển, mua trang thiết bị và công nghệ, tài nguyên tính toán.```
   - 🧷 Các bước hướng tới.
     - Học và hiểu sâu lĩnh vực AI Machine/Deep Learning và xây dựng các mô hình sản phẩm. (Đã hoàn thành)
     - Học và hiểu sâu về lĩnh vực Nhúng/Robostic và xây dựng các thiết bị vận hành đơn giản. (Chưa thực hiện) (Chưa hoàn thành)
