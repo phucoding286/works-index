@@ -97,8 +97,8 @@
     - Việc đặt mốc 50 triệu VND làm tiêu chí hoàn thành kế hoạch bước 1 là một mốc khả thi trong khả năng và rõ ràng để có thể xác nhận kết thúc kế hoạch.
     - Kế hoạch bước một buộc phải thực hiện luồng hoạt động như vậy ngay từ đầu, dù vốn nhỏ, hệ thống bắt buộc phải thích nghi và tự chứng minh nó có thể hoạt động từ trứng nước đến trưởng thành, để đảm bảo độ cứng cáp.
 
-- **Kế hoạch bước 2: Kế hoạch tập trung ứng dụng trí tuệ nhân tạo vào đời sống thông qua robot.** (Tiêu chí xác nhận hoàn thành: Tạo ra các robot dạng người có thể di chuyển cơ bản)
-  - Các bước hướng tới.
+- 📄 **Kế hoạch bước 2: Kế hoạch tập trung ứng dụng trí tuệ nhân tạo vào đời sống thông qua robot.** (Tiêu chí xác nhận hoàn thành: Tạo ra các robot dạng người có thể di chuyển cơ bản)
+  - 🧷 Các bước hướng tới.
     - Học và hiểu sâu lĩnh vực AI Machine/Deep Learning và xây dựng các mô hình sản phẩm. (Đã hoàn thành)
     - Học và hiểu sâu về lĩnh vực Nhúng/Robostic và xây dựng các thiết bị vận hành đơn giản. (Chưa thực hiện) (Chưa hoàn thành)
   - ```! Hiện tại kế hoạch bước 2 chưa rõ ràng, kế hoạch bước 2 cần kế hoạch bước 1 hoàn thành để cung cấp nguồn lực tài chính cho việc nghiên cứu, phát triển, mua trang thiết bị và công nghệ, tài nguyên tính toán.```
