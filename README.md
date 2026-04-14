@@ -94,6 +94,10 @@
   - 🧷 Các bước hướng tới.
     - Học và hiểu sâu lĩnh vực AI Machine/Deep Learning và xây dựng các mô hình sản phẩm. (Đã hoàn thành)
     - Học và hiểu sâu về lĩnh vực Nhúng/Robostic và xây dựng các thiết bị vận hành đơn giản. (Chưa thực hiện) (Chưa hoàn thành)
+   
+##
+
+> [CÁC ĐỊNH HƯỚNG VÀ KỶ LUẬT CÁ NHÂN THUỘC KẾ HOẠCH NHƯNG VÌ LÝ DO CÁ NHÂN NÊN VIẾT RIÊNG.](https://github.com/phucoding286/my-discipline-and-orients)
 
 ##
 ##
@@ -106,6 +110,3 @@
 - Ước tính kế hoạch 1 sẽ hoàn thành trước khi bước vào đầu năm 2027.
 - Ước tính khoản thời gian hoàn thành tổng kế hoạch bước 2 là 5 năm nữa.
 - Cập nhật lần cuối: Ngày 10 Tháng 4 Năm 2026.
-
----
-> [CÁC ĐỊNH HƯỚNG VÀ KỶ LUẬT CÁ NHÂN THUỘC KẾ HOẠCH NHƯNG VÌ LÝ DO CÁ NHÂN NÊN VIẾT RIÊNG.](https://github.com/phucoding286/my-discipline-and-orients)
