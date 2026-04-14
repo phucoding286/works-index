@@ -100,8 +100,6 @@
 🔒 [CÁC ĐỊNH HƯỚNG VÀ KỶ LUẬT CÁ NHÂN THUỘC KẾ HOẠCH NHƯNG VÌ LÝ DO CÁ NHÂN NÊN VIẾT RIÊNG.](https://github.com/phucoding286/my-discipline-and-orients)
 
 ##
-##
-##
 
 ## Tiến độ hành trình, ước tính.
 - ! Các bước tiếp theo sẽ được tính tới sau khi hoàn thành bước 1 và bước 2.
