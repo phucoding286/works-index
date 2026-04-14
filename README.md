@@ -95,7 +95,7 @@
         - ```Mục tiêu 4: Học và thành thạo việc modeling trong blender. (Tạm thời chưa tính đến)```
         - ```Mục tiêu 5: Học và thành thạo việc animation và rigging trong blender. (Tạm thời chưa tính đến.)```
         - ```! Việc học về blender rất quan trọng, nó là bước tạo ra asset cá nhân thay vì đi dùng asset free.```
-  - ! Hiện tại tạm thời mở ra 4 nhánh này, tương lai có thể mở rộng thêm.```
+  - ! Hiện tại tạm thời mở ra 4 nhánh này, tương lai có thể mở rộng thêm.
   - Giải thích chi tiết cách vận hành kế hoạch bước 1 (Xây dựng gia sản)
     - Kế hoạch này tập trung vào việc dòng tiền đổ về gia sản tập trung ở ngân hàng nào đó, ví dụ vietcombank.
     - Luồng hoạt động như sau: Tất cả các việc tạo ra dòng tiền trực tiếp như Tool MMO, Game-Dev..vv tiền sẽ được chảy về gia sản tập trung này và lớn dần, gia sản tiếp tục được chia theo % và được trade theo công thức trade để thực hiện sinh lãi suất, lãi suất này 1/2 sẽ chảy ngược lại về gia sản tập trung, còn lại sẽ được dùng cho bất kỳ mục đích gì khác.
