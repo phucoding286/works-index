@@ -78,7 +78,7 @@
 ## 🧾📄 TIẾN TRÌNH VÀ ĐỊNH HƯỚNG TỔNG THỂ CỦA SIÊU KẾ HOẠCH DÀI HẠN.
 
 - 📄 **Kế hoạch bước 1: Kế hoạch xây dựng tài chính, gia sản.** (Tiêu chí xác nhận hoàn thành: Đạt mốc 50 triệu VND)
-  - ```! Hiện tại tạm thời mở ra 4 nhánh này, tương lai có thể mở rộng thêm. [Giải thích chi tiết về cách vận hành của kế hoạch bước 1 (Xây dựng gia sản)](https://github.com/phucoding286/explain-plan-step1)```
+  - ```! Hiện tại tạm thời mở ra 4 nhánh này, tương lai có thể mở rộng thêm.``` [Giải thích chi tiết về cách vận hành của kế hoạch bước 1 (Xây dựng gia sản)](https://github.com/phucoding286/explain-plan-step1)
   - 🧷 Các nhánh đang hướng tới.
     - Tool/System automation. (Đã có một vài hệ thống, kiếm tiền thật) (Đã hoàn thành)
     - Giao dịch/Đầu tư. (Đã có công thức giao dịch ổn định, kiếm lãi thật) (Đã hoàn thành)
