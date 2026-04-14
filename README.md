@@ -91,6 +91,11 @@
         - Mục tiêu 5: Học và thành thạo việc animation và rigging trong blender. (Tạm thời chưa tính đến.)
       - ```! Việc học về blender rất quan trọng, nó là bước tạo ra asset cá nhân thay vì đi dùng asset free.```
   - ```! Hiện tại tạm thời mở ra 4 nhánh này, tương lai có thể mở rộng thêm.```
+  - Giải thích chi tiết cách vận hành kế hoạch bước 1 (Xây dựng gia sản)
+    - Kế hoạch này tập trung vào việc dòng tiền đổ về gia sản tập trung ở ngân hàng nào đó, ví dụ vietcombank.
+    - Luồng hoạt động như sau: Tất cả các việc tạo ra dòng tiền trực tiếp như Tool MMO, Game-Dev..vv tiền sẽ được chảy về gia sản tập trung này và lớn dần, gia sản tiếp tục được chia theo % và được trade theo công thức trade để thực hiện sinh lãi suất, lãi suất này 1/2 sẽ chảy ngược lại về gia sản tập trung, còn lại sẽ được dùng cho bất kỳ mục đích gì khác.
+    - Việc đặt mốc 50 triệu VND làm tiêu chí hoàn thành kế hoạch bước 1 là một mốc khả thi trong khả năng và rõ ràng để có thể xác nhận kết thúc kế hoạch.
+    - Kế hoạch bước một buộc phải thực hiện luồng hoạt động như vậy ngay từ đầu, dù vốn nhỏ, hệ thống bắt buộc phải thích nghi và tự chứng minh nó có thể hoạt động từ trứng nước đến trưởng thành, để đảm bảo độ cứng cáp.
 
 - **Kế hoạch bước 2: Kế hoạch tập trung ứng dụng trí tuệ nhân tạo vào đời sống thông qua robot.** (Tiêu chí xác nhận hoàn thành: Tạo ra các robot dạng người có thể di chuyển cơ bản)
   - Các bước hướng tới.
