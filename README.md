@@ -97,7 +97,7 @@
    
 ##
 
-[CÁC ĐỊNH HƯỚNG VÀ KỶ LUẬT CÁ NHÂN THUỘC KẾ HOẠCH NHƯNG VÌ LÝ DO CÁ NHÂN NÊN VIẾT RIÊNG.](https://github.com/phucoding286/my-discipline-and-orients)
+[🔒 CÁC ĐỊNH HƯỚNG VÀ KỶ LUẬT CÁ NHÂN THUỘC KẾ HOẠCH NHƯNG VÌ LÝ DO CÁ NHÂN NÊN VIẾT RIÊNG.](https://github.com/phucoding286/my-discipline-and-orients)
 
 ##
 ##
