@@ -86,6 +86,8 @@
     - Kế hoạch phát triển game, nhắm vào thị trường game mobile offline và kiếm tiền từ ADS. (Đang thực hiện) (Chưa hoàn thành)
       - [Các bước cần hoàn thành của kế hoạch phát triển game.](https://github.com/phucoding286/game-dev-plan-needed-to-complete)
   - ! Hiện tại tạm thời mở ra 4 nhánh này, tương lai có thể mở rộng thêm. [Giải thích chi tiết về cách vận hành của kế hoạch bước 1 (Xây dựng gia sản)](https://github.com/phucoding286/explain-plan-step1)
+    
+##
 
 - 📄 **Kế hoạch bước 2: Kế hoạch tập trung ứng dụng trí tuệ nhân tạo vào đời sống thông qua robot.** (Tiêu chí xác nhận hoàn thành: Tạo ra các robot dạng người có thể di chuyển cơ bản)
   - 🧷 Các bước hướng tới.
