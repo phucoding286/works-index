@@ -84,13 +84,7 @@
     - Dự án AI LDM generate NSFW images, nhắm vào thị trường NSFW. (Đang thực hiện) (Chưa hoàn thành)
       - [Các bước cần hoàn thành của kế hoạch LDM AI NSFW.](https://github.com/phucoding286/ldm-steps-needed-to-complete)
     - Kế hoạch phát triển game, nhắm vào thị trường game mobile offline và kiếm tiền từ ADS. (Đang thực hiện) (Chưa hoàn thành)
-      - ```! Deadline trong 3 tháng phải làm được game đầu tiên có gắn ADS và đăng tải nó lên play store.```
-        - ```Mục tiêu 1: Thành thạo unity và cách code C# trên unity, và biết các nguồn tài nguyên asset miễn phí, tạo ra các game 2D cơ bản (Thời hạn 1 tháng tính từ ngày 13 tháng 4 năm 2026 đến ngày 13 tháng 5 năm 2026) (Chưa hoàn thành)```
-        - ```Mục tiêu 2: Tạo ra các game 3D tiêu chuẩn (Thời hạn 1 tháng tính từ ngày 13 tháng 5 năm 2026 đến ngày 13 tháng 6 năm 2026) (Chưa hoàn thành)```
-        - ```Mục tiêu 3: Tạo ra các games hoàn chỉnh và đăng tải lên play store (Thời hạn 1 tháng tính từ ngày 13 tháng 6 năm 2026 đến ngày 13 tháng 7 năm 2026) (Chưa hoàn thành)```
-        - ```Mục tiêu 4: Học và thành thạo việc modeling trong blender. (Tạm thời chưa tính đến)```
-        - ```Mục tiêu 5: Học và thành thạo việc animation và rigging trong blender. (Tạm thời chưa tính đến.)```
-        - ```! Việc học về blender rất quan trọng, nó là bước tạo ra asset cá nhân thay vì đi dùng asset free.```
+      - [Các bước cần hoàn thành của kế hoạch phát triển game.](https://github.com/phucoding286/game-dev-plan-needed-to-complete)
   - ! Hiện tại tạm thời mở ra 4 nhánh này, tương lai có thể mở rộng thêm.
   - Giải thích chi tiết cách vận hành kế hoạch bước 1 (Xây dựng gia sản)
     - Kế hoạch này tập trung vào việc dòng tiền đổ về gia sản tập trung ở ngân hàng nào đó, ví dụ vietcombank.
