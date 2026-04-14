@@ -103,6 +103,10 @@
     - Học và hiểu sâu về lĩnh vực Nhúng/Robostic và xây dựng các thiết bị vận hành đơn giản. (Chưa thực hiện) (Chưa hoàn thành)
   - ```! Hiện tại kế hoạch bước 2 chưa rõ ràng, kế hoạch bước 2 cần kế hoạch bước 1 hoàn thành để cung cấp nguồn lực tài chính cho việc nghiên cứu, phát triển, mua trang thiết bị và công nghệ, tài nguyên tính toán.```
 
+##
+##
+##
+
 ## Tiến độ hành trình, ước tính.
 - ```! Các bước tiếp theo sẽ được tính tới sau khi hoàn thành bước 1 và bước 2.```
 - 🕧 Thời gian bắt đầu hành trình tự học và xây dựng kế hoạch cá nhân tính từ thời điểm khởi đầu vào tháng 6 năm 2023, đến nay là 2026, khoảng 3 năm.
