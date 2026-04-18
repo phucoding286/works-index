@@ -59,34 +59,6 @@
   - [Các khóa học prices action nâng cao và tài nguyên dành cho newbie trở thành pro trader.](https://github.com/phucoding286/advanced-priceactions-models-and-resoures) (Tổng hợp)
   - [Các tài nguyên đang được tôi trade thật, kiếm tiền thật.](https://github.com/phucoding286/my-trade-strategy) (Tự phát triển)
 
-   
----
-   
-### 3. Các Tài nguyên, Nguồn tài liệu học tập, hổ trợ phát triển game.
-- **Các khóa học Unity/C# miễn phí.**
-  - [Khóa học Unity/C# làm game 2D cơ bản.](https://www.youtube.com/playlist?list=PLw2nfWzUTIAkZGD8r2jPjVw-sSCIIV1wa)
-  - [2D Animation trong Unity.](https://www.youtube.com/watch?v=dr13iJ-Jeaw)
-  - [Khóa học Unity 3D.](https://www.youtube.com/playlist?list=PL9YFzEkTXjbPJLYHlMQ4oxrqdXYVc8t9G) (Nguồn 1)
-  - [Khóa học Unity 3D.](https://www.youtube.com/playlist?list=PLN7QjCLMMKD4KaQFAH6z_xc5D_KGidRVj) (Nguồn 2)
-  - [Cách thêm google ads vào Unity.](https://www.youtube.com/watch?v=95oiXInI_qY)
-  - [Cách Public app/game lên Appstore/GooglePlay.](https://www.youtube.com/watch?v=3Ta8OhFpoZ0)
-  - [Khóa học Spine.](https://www.youtube.com/playlist?list=PLxp4pxJg3lmXFOdPtABz6LKH7SJ8jWfPa) (Nguồng giảng tiếng anh)
-    
-- **Các khóa học Blender miễn phí.**
-  - [Khóa học dùng blender cơ bản.](https://www.youtube.com/playlist?list=PLjwKgtGkoR2FxnWHF8biLBcHsape7Y_MM)
-  - [Khóa Học Modeling 101 Blender Online.](https://www.youtube.com/playlist?list=PLmB5gjcC_rYGRvL1JAxetwgX2v7m_h9_6)
-  - [Khóa học modeling character.](https://www.youtube.com/playlist?list=PLvgIVNDU-Dxi5h3JLNJMfK0t3-WsBm6Av) (Nguồn giảng tiếng anh)
-  - [Khóa học blender animation cơ bản.](https://www.youtube.com/playlist?list=PL0on0KUhv1Zu78VwF0IrCZqWHPT9xh0cE)
-    
-- **Các nguồn assets có sẵn hổ trợ làm game.**
-  - [Unity Assets Store](https://assetstore.unity.com/)
-  - [Itch Io](https://itch.io/)
-  - [Kenney](https://kenney.nl/assets)
-  - [Opengameart](https://opengameart.org/)
-  - [Gamedev Market](https://www.gamedevmarket.net/)
-  - [Video hướng dẫn](https://www.youtube.com/watch?v=xcINTC3vA1I)
-
-
 
 ---
 
@@ -102,8 +74,6 @@
     - Giao dịch/Đầu tư. (Đã có công thức giao dịch ổn định, kiếm lãi thật) (Đã hoàn thành)
     - Dự án AI LDM generate NSFW images, nhắm vào thị trường NSFW. (Đang thực hiện) (Chưa hoàn thành)
       - [Các bước cần hoàn thành của kế hoạch LDM AI NSFW.](https://github.com/phucoding286/ldm-steps-needed-to-complete)
-    - Kế hoạch phát triển game, nhắm vào thị trường game mobile offline và kiếm tiền từ ADS. (Đang thực hiện) (Chưa hoàn thành)
-      - [Các bước cần hoàn thành của kế hoạch phát triển game.](https://github.com/phucoding286/game-dev-plan-needed-to-complete)
     
 ##
 
