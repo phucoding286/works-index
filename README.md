@@ -70,15 +70,20 @@
   - [Khóa học Unity 3D.](https://www.youtube.com/playlist?list=PLN7QjCLMMKD4KaQFAH6z_xc5D_KGidRVj) (Nguồn 2)
   - [Cách thêm google ads vào Unity.](https://www.youtube.com/watch?v=95oiXInI_qY)
   - [Cách Public app/game lên Appstore/GooglePlay.](https://www.youtube.com/watch?v=3Ta8OhFpoZ0)
+    
 - **Các khóa học Blender miễn phí.**
   - [Khóa học dùng blender cơ bản.](https://www.youtube.com/playlist?list=PLjwKgtGkoR2FxnWHF8biLBcHsape7Y_MM)
   - [Khóa Học Modeling 101 Blender Online.](https://www.youtube.com/playlist?list=PLmB5gjcC_rYGRvL1JAxetwgX2v7m_h9_6)
   - [Khóa học modeling character.](https://www.youtube.com/playlist?list=PLvgIVNDU-Dxi5h3JLNJMfK0t3-WsBm6Av) (Nguồn giảng tiếng anh)
   - [Khóa học blender animation cơ bản.](https://www.youtube.com/playlist?list=PL0on0KUhv1Zu78VwF0IrCZqWHPT9xh0cE)
+    
 - **Các nguồn assets có sẵn hổ trợ làm game.**
   - [Unity Assets Store](https://assetstore.unity.com/)
   - [Itch Io](https://itch.io/)
   - [Kenney](https://kenney.nl/assets)
+  - [Opengameart](https://opengameart.org/)
+  - [Gamedev Market](https://www.gamedevmarket.net/)
+  - [Video hướng dẫn](https://www.youtube.com/watch?v=xcINTC3vA1I)
 
 
 
