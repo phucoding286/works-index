@@ -70,7 +70,7 @@
   - [Khóa học Unity 3D.](https://www.youtube.com/playlist?list=PLN7QjCLMMKD4KaQFAH6z_xc5D_KGidRVj) (Nguồn 2)
   - [Cách thêm google ads vào Unity.](https://www.youtube.com/watch?v=95oiXInI_qY)
   - [Cách Public app/game lên Appstore/GooglePlay.](https://www.youtube.com/watch?v=3Ta8OhFpoZ0)
-  - [Khóa học Spine.](https://www.youtube.com/playlist?list=PLxp4pxJg3lmXFOdPtABz6LKH7SJ8jWfPa)
+  - [Khóa học Spine.](https://www.youtube.com/playlist?list=PLxp4pxJg3lmXFOdPtABz6LKH7SJ8jWfPa) (Nguồng giảng tiếng anh)
     
 - **Các khóa học Blender miễn phí.**
   - [Khóa học dùng blender cơ bản.](https://www.youtube.com/playlist?list=PLjwKgtGkoR2FxnWHF8biLBcHsape7Y_MM)
