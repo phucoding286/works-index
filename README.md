@@ -78,6 +78,7 @@
 - **Các nguồn assets có sẵn hổ trợ làm game.**
   - [Unity Assets Store](https://assetstore.unity.com/)
   - [Itch Io](https://itch.io/)
+  - [Kenney](https://kenney.nl/assets)
 
 
 
