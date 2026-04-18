@@ -69,6 +69,7 @@
   - [Khóa học Unity 3D.](https://www.youtube.com/playlist?list=PL9YFzEkTXjbPJLYHlMQ4oxrqdXYVc8t9G) (Nguồn 1)
   - [Khóa học Unity 3D.](https://www.youtube.com/playlist?list=PLN7QjCLMMKD4KaQFAH6z_xc5D_KGidRVj) (Nguồn 2)
   - [Cách thêm google ads vào Unity.](https://www.youtube.com/watch?v=95oiXInI_qY)
+  - [Cách Public app/game lên Appstore/GooglePlay.](https://www.youtube.com/watch?v=3Ta8OhFpoZ0)
 - **Các khóa học Blender miễn phí.**
   - [Khóa học dùng blender cơ bản.](https://www.youtube.com/playlist?list=PLjwKgtGkoR2FxnWHF8biLBcHsape7Y_MM)
   - [Khóa Học Modeling 101 Blender Online.](https://www.youtube.com/playlist?list=PLmB5gjcC_rYGRvL1JAxetwgX2v7m_h9_6)
