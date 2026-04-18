@@ -75,6 +75,8 @@
   - [Khóa Học Modeling 101 Blender Online.](https://www.youtube.com/playlist?list=PLmB5gjcC_rYGRvL1JAxetwgX2v7m_h9_6)
   - [Khóa học modeling character.](https://www.youtube.com/playlist?list=PLvgIVNDU-Dxi5h3JLNJMfK0t3-WsBm6Av) (Nguồn giảng tiếng anh)
   - [Khóa học blender animation cơ bản.](https://www.youtube.com/playlist?list=PL0on0KUhv1Zu78VwF0IrCZqWHPT9xh0cE)
+- **Các nguồn assets có sẵn hổ trợ làm game.**
+  - [Unity Assets Store](https://assetstore.unity.com/)
 
 
 
