@@ -48,7 +48,7 @@
 ### 2. Các dự án về tài chính, kiếm tiền online 📈📉
 
 - **Tool kiếm tiền**
-  - [Công cụ Golike Facebook](https://github.com/phucoding286/golike-facebook-tool) (Created by Phu)
+  - [Công cụ TDS/Golike Facebook](https://github.com/phucoding286/golike-facebook-tool) (Created by Phu)
   - [Công cụ Golike Tiktok](https://github.com/phucoding286/golike-tiktok-tool) (Created by Phu)
 
 - **Tư duy & Chiến lược Giao dịch 💰**
