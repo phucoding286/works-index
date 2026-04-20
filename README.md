@@ -83,13 +83,3 @@
 ##
 
 🔒 [CÁC ĐỊNH HƯỚNG VÀ KỶ LUẬT CÁ NHÂN THUỘC KẾ HOẠCH NHƯNG VÌ LÝ DO CÁ NHÂN NÊN VIẾT RIÊNG.](https://github.com/phucoding286/my-discipline-and-orients)
-
-##
-
-## Tiến độ hành trình, ước tính.
-- ! Các bước tiếp theo sẽ được tính tới sau khi hoàn thành bước 1 và bước 2.
-- 🕧 Thời gian bắt đầu hành trình tự học và xây dựng kế hoạch cá nhân tính từ thời điểm khởi đầu vào tháng 6 năm 2023, đến nay là 2026, khoảng 3 năm.
-- Thời điểm bắt đầu bước 1 vào tháng 10 năm 2024, đến nay đã hơn 1 năm.
-- Ước tính kế hoạch 1 sẽ hoàn thành trước khi bước vào đầu năm 2027.
-- Ước tính khoản thời gian hoàn thành tổng kế hoạch bước 2 là 5 năm nữa.
-- Cập nhật lần cuối: Ngày 15 Tháng 4 Năm 2026.
