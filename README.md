@@ -48,11 +48,8 @@
 ### 2. Các dự án về tài chính, kiếm tiền online 📈📉
 
 - **Tool kiếm tiền**
-  - [Tool kiếm tiền qua Facebook (V1)](https://github.com/phucoding286/golike-facebook-system-v1.0) (Bản cũ) (Không thể chạy được nữa)
-  - [Tool kiếm tiền qua Facebook (V2)](https://github.com/phucoding286/golike-facebook-system-v1.0/tree/main/B%E1%BA%A3n_Golike_V%E1%BB%9Bi_API) (Bản cũ) (Không thể chạy được nữa)
-  - [Tool kiếm tiền qua TikTok (V1)](https://github.com/phucoding286/golike-tiktok-system) (Bản cũ) (Không thể chạy được nữa)
-  - [Tool kiếm tiền qua Facebook (V3)](https://github.com/phucoding286/golike-facebook-v3) (Khuyên dùng)
-  - [Tool kiếm tiền qua Tiktok (V2)](https://github.com/phucoding286/golike-tiktok-v2) (Khuyên dùng)
+  - [Công cụ Golike Facebook](https://github.com/phucoding286/golike-facebook-tool) (Created by Phu)
+  - [Công cụ Golike Tiktok](https://github.com/phucoding286/golike-tiktok-tool) (Created by Phu)
 
 - **Tư duy & Chiến lược Giao dịch 💰**
   - [Các mô hình prices action cơ bản và cách trade cơ bản.](https://github.com/phucoding286/basic-pricesaction-models) (Tổng hợp từ nhiều nguồn)
