@@ -71,7 +71,7 @@
     - Giao dịch/Đầu tư. (Đã có công thức giao dịch ổn định, kiếm lãi thật) (Đã hoàn thành)
     - Dự án AI LDM generate NSFW images, nhắm vào thị trường NSFW. (Đang thực hiện) (Chưa hoàn thành)
       - [Các bước cần hoàn thành của kế hoạch LDM AI NSFW.](https://github.com/phucoding286/ldm-steps-needed-to-complete)
-  ---
+  ###
   - 🧷 Các nhánh tiềm năng đang hướng tới nhưng chưa xếp vào chính thức.
     - Học vẽ 2D, sau đó là modeling 3D, kèm theo học animation/rig, chuẩn bị cho việc lập trình game trong tương lai. (Tương lai dài)
     - Code các web mini tools tiện ích, và gắn ads kiếm tiền. (Có thể làm ngay vì đã có kỹ năng web-dev)
