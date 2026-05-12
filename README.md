@@ -59,7 +59,7 @@
 ---
 
 ### 3. Dự án web, micro tools, tiện ích.
-- [Dự án] (https://github.com/phucoding286/my-web-project)
+- [Dự án](https://github.com/phucoding286/my-web-project)
 
 ---
 
