@@ -50,6 +50,8 @@
 - **Tool kiếm tiền**
   - [Công cụ TDS/Golike Facebook](https://github.com/phucoding286/golike-facebook-tool) (`NetCode: MEMUNET`) (Created by Phu)
   - [Công cụ Golike Tiktok](https://github.com/phucoding286/golike-tiktok-tool) (Created by Phu)
+  - [Giải thích về mã Memunet](https://github.com/phucoding286/memunet)
+    - Mô tả ngắn: Mã MEMUNET dùng để định danh các tools dùng chung tài nguyên máy ảo MEMU.
 
 - **Tư duy & Chiến lược Giao dịch 💰**
   - [Các mô hình prices action cơ bản và cách trade cơ bản.](https://github.com/phucoding286/basic-pricesaction-models) (Tổng hợp từ nhiều nguồn)
