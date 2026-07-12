@@ -30,7 +30,7 @@
   - [Mô hình VAE.](https://github.com/phucoding286/variantional_autoencoders_VAE_Project) (Tự triển khai)
   - [Notebook triển khai và huấn luyện Latent Diffusion Model (LDM)](https://colab.research.google.com/drive/1ZaDwqgKsOHqzWp1loHkIIAuuolVGSOoY?authuser=1#scrollTo=n3xpmDX898yV) (Tự triển khai)
  
-- **NLP Datasets**
+- **NLP Datasets/Tools**
   - Các module xử lý dữ liệu văn bản hoặc crawl.
     - [Module đọc/ghi dữ liệu văn bản vào file json, tối ưu.](https://github.com/phucoding286/text-json-writer-for-big-dataset) (Created by Phu)
     - [Module lọc trùng lặp urls, tối ưu hóa, hổ trợ cho việc crawling.](https://github.com/phucoding286/duplicate-filter) (Created by Phu)
@@ -41,6 +41,10 @@
   - Bộ datasets NLP dành cho việc train Language Model.
     - [Các bộ dữ liệu NLP nhỏ demo pretraining cho Langugae Model.](https://github.com/phucoding286/text-datasets-demo-for-training-language-model) (Tự crawl)
     - [Các bộ dữ liệu lớn dành cho việc pretraining Language Model nghiêm túc, kèm chương trình crawl.](https://github.com/phucoding286/datasets-for-train-language-model) (Tự crawl)
+   
+- **Vision Datasets/Tools**
+  - Các module xử lý dữ liệu ảnh hoặc crawl.
+     - [Module chia patches files ảnh và tạo zip, kết hợp trộn dữ liệu giúp phân phối đều.](https://github.com/phucoding286/divide_images_patchzip)
 
 
 ---
