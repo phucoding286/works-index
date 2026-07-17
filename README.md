@@ -67,4 +67,4 @@
 ---
 
 ### 3. Dự án web, micro tools, tiện ích.
-- [Dự án.](https://github.com/phucoding286/my-web-project) (Đang phát triển theo thời gian, chưa ưu tiên.)
+- [Link đến repo của dự án.](https://github.com/phucoding286/my-web-project) (Đang phát triển theo thời gian, chưa ưu tiên.)
