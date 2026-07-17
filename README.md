@@ -58,6 +58,7 @@
   - [Giải thích về mã Memunet](https://github.com/phucoding286/memunet)
     - Mô tả ngắn: Mã MEMUNET dùng để định danh các tools dùng chung tài nguyên máy ảo MEMU.
   - [Bộ công cụ tài chính, tín hiệu giao dịch.](https://github.com/phucoding286/finance-algo)
+  - [Bot trade OKX, tự động mở lệnh theo tín hiệu.](https://github.com/phucoding286/okx-bot-trade)
 
 - **Tư duy & Chiến lược Giao dịch 💰**
   - [Các mô hình prices action cơ bản và cách trade cơ bản.](https://github.com/phucoding286/basic-pricesaction-models) (Tổng hợp từ nhiều nguồn)
