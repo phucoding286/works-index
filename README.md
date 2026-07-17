@@ -44,8 +44,8 @@
    
 - **Vision Datasets/Tools**
   - Các module xử lý dữ liệu ảnh hoặc crawl.
-     - [Module chia patches files ảnh và tạo zip, kết hợp trộn dữ liệu giúp phân phối đều.](https://github.com/phucoding286/divide_images_patchzip)
-     - [Tool crawl ảnh từ Danbooru.](https://github.com/phucoding286/danbooru_crawler)
+     - [Module chia patches files ảnh và tạo zip, kết hợp trộn dữ liệu giúp phân phối đều.](https://github.com/phucoding286/divide_images_patchzip) (Created by Phu)
+     - [Tool crawl ảnh từ Danbooru.](https://github.com/phucoding286/danbooru_crawler) (Created by Phu)
 
 
 ---
