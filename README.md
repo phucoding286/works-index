@@ -54,11 +54,12 @@
 ### 2. Các dự án về tài chính, kiếm tiền online 📈📉
 
 - **Tool kiếm tiền**
-  - [Công cụ TDS/Golike Facebook](https://github.com/phucoding286/golike-facebook-tool) (`NetCode: MEMUNET`) (Created by Phu) (Vẫn kiếm tiền ngon)
-  - [Bộ công cụ tài chính, tín hiệu giao dịch.](https://github.com/phucoding286/finance-algo) (Created by Phu) (Vẫn kiếm tiền ngon)
-  #
-  - [Công cụ Golike Tiktok MEMUNET version](https://github.com/phucoding286/golike-tiktok-memunet) (`NetCode: MEMUNET`) (Created by Phu) (Không dùng được nữa)
-  - [Công cụ Golike Tiktok](https://github.com/phucoding286/golike-tiktok-tool) (Created by Phu) (Không dùng được nữa)
+  - Các dự án đang được phát triển.
+    - [Công cụ TDS/Golike Facebook](https://github.com/phucoding286/golike-facebook-tool) (`NetCode: MEMUNET`) (Created by Phu) (Vẫn kiếm tiền ngon)
+    - [Bộ công cụ tài chính, tín hiệu giao dịch.](https://github.com/phucoding286/finance-algo) (Created by Phu) (Vẫn kiếm tiền ngon)
+  - Các dự án không được phát triển nữa.
+    - [Công cụ Golike Tiktok MEMUNET version](https://github.com/phucoding286/golike-tiktok-memunet) (`NetCode: MEMUNET`) (Created by Phu) (Không dùng được nữa)
+    - [Công cụ Golike Tiktok](https://github.com/phucoding286/golike-tiktok-tool) (Created by Phu) (Không dùng được nữa)
   - [Giải thích về mã Memunet](https://github.com/phucoding286/memunet) (The system idea by Phu) ```Mô tả ngắn "Mã MEMUNET dùng để định danh các tools dùng chung tài nguyên máy ảo MEMU."```
 
 - **Tư duy & Chiến lược Giao dịch 💰**
