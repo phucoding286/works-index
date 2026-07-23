@@ -54,7 +54,7 @@
 ### 2. Các dự án về tài chính, kiếm tiền online 📈📉
 
 - **Tool kiếm tiền**
-  - Các dự án đang được phát triển.
+  - Các dự án đang được bảo trì, phát triển, ổn định.
     - [Công cụ TDS/Golike Facebook](https://github.com/phucoding286/golike-facebook-tool) (`NetCode: MEMUNET`) (Created by Phu) (Vẫn kiếm tiền ngon)
     - [Bộ công cụ tài chính, tín hiệu giao dịch.](https://github.com/phucoding286/finance-algo) (Created by Phu) (Vẫn kiếm tiền ngon)
     - [Giải thích về mã Memunet](https://github.com/phucoding286/memunet) (The system idea by Phu) ```Mô tả ngắn "Mã MEMUNET dùng để định danh các tools dùng chung tài nguyên máy ảo MEMU."```
